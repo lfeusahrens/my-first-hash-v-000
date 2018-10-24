@@ -1,6 +1,12 @@
 def my_hash
   
-  
+  crew = {
+ 
+  "Matteo" => "Captain",
+  "Rodney" => "Tactician",
+  "Ed" => "Skipper"
+ 
+}
   # use the literal constructor to set the variable, my_hash, equal to a hash with key/value pairs of your choice.
 
   
