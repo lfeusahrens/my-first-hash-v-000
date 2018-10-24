@@ -1,6 +1,6 @@
 def my_hash
   
-  crew = {
+  silencio_crew = {
         "Matteo" => "Captain",
         "Rodney" => "Tactician",
         "Ed" => "Skipper"
