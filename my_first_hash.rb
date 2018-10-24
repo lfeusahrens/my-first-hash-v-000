@@ -38,6 +38,6 @@ def adding
                   "muskets" => 2,
                   "gun powder" => 4
                  }
-  
+
 end
 puts shipping_manifest
