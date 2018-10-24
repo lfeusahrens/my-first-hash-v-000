@@ -1,12 +1,10 @@
 def my_hash
   
   crew = {
- 
-  "Matteo" => "Captain",
-  "Rodney" => "Tactician",
-  "Ed" => "Skipper"
- 
-}
+        "Matteo" => "Captain",
+        "Rodney" => "Tactician",
+        "Ed" => "Skipper"
+        }
  
 end
 
@@ -17,11 +15,7 @@ def shipping_manifest
                   "porcelain vases" => 2, 
                   "oil paintings" => 3
                  }
-  # set a variable called `the_manifest`, equal to a hash
-  # fill that hash with key/value pairs that describe the following information: 
-  # We have 5 whale bone corsets, 2 porcelain vases and 3 oil paintings 
-
-
+ 
 end
 
 def retrieval
